@@ -1,0 +1,75 @@
+.title {
+  color: #b5cc22;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.searchdiv {
+  margin: 30px 0px 20px 0px;
+}
+
+.searchinput {
+  background-color: #f6f6f6;
+  height: 40px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  padding: 8px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.searchinput::placeholder {
+  color: #aeaeae;
+}
+
+.selectall {
+  font-size: 18px;
+  margin-bottom: 1rem;
+}
+
+.allarea {
+  margin-right: 1rem;
+  padding: 0px;
+}
+
+.checkbox {
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.checkboxes {
+  width: 45%;
+}
+
+.areadiv {
+  font-size: 18px;
+  margin-right: 3rem;
+  margin-bottom: 1rem;
+}
+
+.area {
+  font-size: 18px;
+  /* margin-right: 4rem;
+  margin-bottom: 1rem; */
+  margin-right: 1rem;
+  padding: 0px;
+}
+
+.areaname {
+  margin-right: 1rem;
+}
+
+.picdiv {
+  width: 45%;
+  height: 100%;
+}
+
+.pic {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}

@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  padding: 36px 0px;
+}
+
+.logo {
+  height: 80px;
+  width: 150px;
+  margin-right: 1rem;
+}
+
+.imglogo {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.navlink {
+  font-size: 18px;
+  padding: 0px 16px;
+  color: #677510;
+  margin: 0;
+  font-weight: 500;
+}
+
+.navlink:hover{
+  color: #b5cc22;
+}
